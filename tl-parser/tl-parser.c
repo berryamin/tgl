@@ -35,7 +35,7 @@
 #include <string.h>
 #include <time.h>
 #include <zlib.h>
-#include "portable_endian.h"
+#include <endian.h>
 #include "tl-parser-tree.h"
 #include "tl-parser.h"
 #include "tl-tl.h"
